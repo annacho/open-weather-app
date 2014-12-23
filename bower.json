@@ -1,0 +1,26 @@
+{
+  "name": "open-weather-app",
+  "version": "0.0.0",
+  "authors": [
+    "Anna Cho <annacho13@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "weather"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.8",
+    "angular-route": "~1.3.8"
+  }
+}
